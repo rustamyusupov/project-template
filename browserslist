@@ -1,0 +1,8 @@
+# Browsers that we support
+
+# Desktop browsers
+last 2 versions
+
+# Mobile browsers
+iOS >= 8
+Android >= 5
